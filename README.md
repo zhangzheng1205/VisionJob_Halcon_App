@@ -3,21 +3,23 @@
 
 
 ### 1.请注意该软件为半标准视频平台，以C#脚本形式驱动，只要编写少量代码即可完成一个全新的视频应用。
-![0.PNG](https://github.com/shikiiGithub/VisionJob_Halcon_App/主程序/bin/Debug/操作指南/0.png)
+![0.PNG](https://github.com/shikiiGithub/VisionJob_Halcon_App/blob/rel_Halcon_%E6%A1%86%E6%9E%B6/%E4%B8%BB%E7%A8%8B%E5%BA%8F/bin/Debug/%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97/0.png)
 ### 2.具体操作指南在bin目录下：
 
- ![0.PNG](https://github.com/shikiiGithub/VisionJob_Halcon_App/主程序/bin/Debug/操作指南/0.png)
- ![0.PNG](https://github.com/shikiiGithub/VisionJob_Halcon_App/主程序/bin/Debug/操作指南/1.png)
- ![0.PNG](https://github.com/shikiiGithub/VisionJob_Halcon_App/主程序/bin/Debug/操作指南/2.png)
- ![0.PNG](https://github.com/shikiiGithub/VisionJob_Halcon_App/主程序/bin/Debug/操作指南/3.png)
- ![0.PNG](https://github.com/shikiiGithub/VisionJob_Halcon_App/主程序/bin/Debug/操作指南/4.png)
- ![0.PNG](https://github.com/shikiiGithub/VisionJob_Halcon_App/主程序/bin/Debug/操作指南/5.png)
- ![0.PNG](https://github.com/shikiiGithub/VisionJob_Halcon_App/主程序/bin/Debug/操作指南/6.png)
- ![0.PNG](https://github.com/shikiiGithub/VisionJob_Halcon_App/主程序/bin/Debug/操作指南/7.png)
- ![0.PNG](https://github.com/shikiiGithub/VisionJob_Halcon_App/主程序/bin/Debug/操作指南/8.png)
- ![0.PNG](https://github.com/shikiiGithub/VisionJob_Halcon_App/主程序/bin/Debug/操作指南/9.png)
- ![0.PNG](https://github.com/shikiiGithub/VisionJob_Halcon_App/主程序/bin/Debug/操作指南/10.png)
- ![0.PNG](https://github.com/shikiiGithub/VisionJob_Halcon_App/主程序/bin/Debug/操作指南/11.png)
+ ![0.PNG](https://github.com/shikiiGithub/VisionJob_Halcon_App/blob/rel_Halcon_%E6%A1%86%E6%9E%B6/%E4%B8%BB%E7%A8%8B%E5%BA%8F/bin/Debug/%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97/0.png)
+ ![0.PNG](https://github.com/shikiiGithub/VisionJob_Halcon_App/blob/rel_Halcon_%E6%A1%86%E6%9E%B6/%E4%B8%BB%E7%A8%8B%E5%BA%8F/bin/Debug/%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97/1.png)
+ ![0.PNG](https://github.com/shikiiGithub/VisionJob_Halcon_App/blob/rel_Halcon_%E6%A1%86%E6%9E%B6/%E4%B8%BB%E7%A8%8B%E5%BA%8F/bin/Debug/%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97/2.png)
+ ![0.PNG](https://github.com/shikiiGithub/VisionJob_Halcon_App/blob/rel_Halcon_%E6%A1%86%E6%9E%B6/%E4%B8%BB%E7%A8%8B%E5%BA%8F/bin/Debug/%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97/3.png)
+ ![0.PNG](https://github.com/shikiiGithub/VisionJob_Halcon_App/blob/rel_Halcon_%E6%A1%86%E6%9E%B6/%E4%B8%BB%E7%A8%8B%E5%BA%8F/bin/Debug/%E6%93%8D%E4%BD%9C%E4.png)
+ ![0.PNG](https://github.com/shikiiGithub/VisionJob_Halcon_App/blob/rel_Halcon_%E6%A1%86%E6%9E%B6/%E4%B8%BB%E7%A8%8B%E5%BA%8F/bin/Debug/%E6%93%8D%E4%BD%9C%E5.png)
+ ![0.PNG](https://github.com/shikiiGithub/VisionJob_Halcon_App/blob/rel_Halcon_%E6%A1%86%E6%9E%B6/%E4%B8%BB%E7%A8%8B%E5%BA%8F/bin/Debug/%E6%93%8D%E4%BD%9C%E6.png)
+ ![0.PNG](https://github.com/shikiiGithub/VisionJob_Halcon_App/blob/rel_Halcon_%E6%A1%86%E6%9E%B6/%E4%B8%BB%E7%A8%8B%E5%BA%8F/bin/Debug/%E6%93%8D%E4%BD%9C%E7.png)
+ ![0.PNG](https://github.com/shikiiGithub/VisionJob_Halcon_App/blob/rel_Halcon_%E6%A1%86%E6%9E%B6/%E4%B8%BB%E7%A8%8B%E5%BA%8F/bin/Debug/%E6%93%8D%E4%BD%9C%E8.png)
+ ![0.PNG](https://github.com/shikiiGithub/VisionJob_Halcon_App/blob/rel_Halcon_%E6%A1%86%E6%9E%B6/%E4%B8%BB%E7%A8%8B%E5%BA%8F/bin/Debug/%E6%93%8D%E4%BD%9C%E9.png)
+ ![0.PNG](https://github.com/shikiiGithub/VisionJob_Halcon_App/blob/rel_Halcon_%E6%A1%86%E6%9E%B6/%E4%B8%BB%E7%A8%8B%E5%BA%8F/bin/Debug/%E6%93%8D%E4%BD%9C%E10.png)
+ ![0.PNG](https://github.com/shikiiGithub/VisionJob_Halcon_App/blob/rel_Halcon_%E6%A1%86%E6%9E%B6/%E4%B8%BB%E7%A8%8B%E5%BA%8F/bin/Debug/%E6%93%8D%E4%BD%9C%E11.png)
+
+
  
  ### 3.如何新增对应的相机工具（可以参考bin目录下的源码）
  
